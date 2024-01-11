@@ -1,0 +1,6 @@
+name: 'figma-branch-diff-action'
+description: ''
+author: 'mamuso <mamuso@mamuso.net>'
+runs:
+  using: 'node18'
+  main: 'dist/index.js'
